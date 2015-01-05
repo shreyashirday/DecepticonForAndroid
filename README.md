@@ -13,7 +13,7 @@ Required Hardware
 ==================
 1. The DFROBOT Pirate 4WD Robot
 2. An [Arduino Uno](http://arduino.cc/en/Main/arduinoBoardUno) with an [Arduino USB cable](http://www.amazon.com/gp/product/B001TH7GUA/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1)
-3. Any Bluetooth Module for the Arduino( I used [this](http://www.ebay.com/itm/1PCS-HC-06-Arduino-Wireless-Bluetooth-Transeiver-RF-Module-Serial-4Pin-Port-line-/271305987900)
+3. Any Bluetooth Module for the Arduino( I used [this](http://www.ebay.com/itm/1PCS-HC-06-Arduino-Wireless-Bluetooth-Transeiver-RF-Module-Serial-4Pin-Port-line-/271305987900))
 4. A breadboard, jumper wires, a 9V battery with a battery cap, and a portable cell phone battery like [this](http://www.amazon.com/PNY-BD2600-2600mAh-Amp-PowerPack/dp/B00A5C4QDK)
 5. A [Dual H-Bridge Motor Driver for DC or Steppers - 600mA - L293D](http://www.adafruit.com/blog/2012/05/01/new-product-dual-h-bridge-motor-driver-for-dc-or-steppers-600ma-l293d/)
 6. An [HC-SR04 UltraSonic Module](http://www.amazon.com/SainSmart-HC-SR04-Ranging-Detector-Distance/dp/B004U8TOE6)
