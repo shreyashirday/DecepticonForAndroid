@@ -51,7 +51,8 @@ Steps
 13. Install the RobotControl app on your Android phone by connecting your phone to your computer with the micro-usb cable and clicking "Run" on Android Studio
 14. Go back to the Amarino app and click "Connect" next to your bluetooth modules name. The light on your bluetooth module should now have stopped blinking and should just be constant.
 15. Go back to the RobotControl app and click "Start" if you filled the 'automate' method out or click "Manual Override" to use your phone like a remote control.
-16. Enjoy!!!
+16. Unplug the USB end of the Arduino cable from the laptop and plug it into the portable cell phone battery so your robot can freely move around 
+17. Enjoy!!!
 
 Contact
 =======
