@@ -28,7 +28,7 @@ Required Software
 Steps
 =====
 
-1. Assemble the Pirate Robot - use the manual and this (video)[https://opensourcehardwaregroup.com/assemble-dfrobot-pirate-4wd-mobile-platform/)
+1. Assemble the Pirate Robot - use the manual and this [video](https://opensourcehardwaregroup.com/assemble-dfrobot-pirate-4wd-mobile-platform/)
    but do NOT mount the Arduino yet and do NOT put the very top platform on. Also, you don't NEED to solder the wires, you can just use elctrical
    tape, but soldering reduces the most noise
 2. After you're done assembling the robot pull all the wires (except for the battery pack wires) through the openings of the top
