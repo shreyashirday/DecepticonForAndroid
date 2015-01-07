@@ -42,12 +42,12 @@ Steps
 5. Now, place the UltraSonic module on the breadboard and again, connect VCC to POWER and GND to GROUND. Connect Trig to the Arduino's pin 12 and Echo to pin 11
 6. Go to the Amarino downloads [website](http://www.amarino-toolkit.net/index.php/download.html) and a) Download the Amarino app (here is a good [link](http://www.talkandroid.com/guides/beginner/install-apk-files-on-android/) on how to download APK's)
     and b) download the MeetAndroid Arduino library and on your Arduino IDE go to Sketch>Import Library>Add Library> and add the MeetAndroid library
-7. Download the source code from this repository, open 'RobotControl.ino' from the 'arduino' folder, connect your Arduino to your computer, and upload the program onto the Arduino
+7. Download the source code from this repository, open `RobotControl.ino` from the `arduino` folder, connect your Arduino to your computer, and upload the program onto the Arduino
 8. Open Android Studio, go to File>Import Project> and choose the folder containing the source code from this repository
 9. Make sure that your Arduino is connected to your computer or another power source and that the light on the Bluetooth module is blinking
 10. Open up the bluetooth settings on your Android phone and pair it with your bluetooth module, it will most likely say HC-06 if you're using the one I did and the password is usually 0000 or 1234
-11. Open up the Amarino app and note the address (which will look something like XX:XX:XX:XX:XX:XX). The, use it for 'DEVICE_ADDRESS' in 'MainActivity.java' and 'ManualOverride.java' in Android Studio
-12. If you want to make your robot move autonomously, simply use the Decepticon object's methods and fill in the code of the 'automate' method in 'MainActivity.java'
+11. Open up the Amarino app and note the address (which will look something like XX:XX:XX:XX:XX:XX). The, use it for `DEVICE_ADDRESS` in `MainActivity.java` and `ManualOverride.java` in Android Studio
+12. If you want to make your robot move autonomously, simply use the Decepticon object's methods and fill in the code of the `automate` method in `MainActivity.java`
 13. Install the RobotControl app on your Android phone by connecting your phone to your computer with the micro-usb cable and clicking "Run" on Android Studio
 14. Go back to the Amarino app and click "Connect" next to your bluetooth modules name. The light on your bluetooth module should now have stopped blinking and should just be constant.
 15. Go back to the RobotControl app and click "Start" if you filled the 'automate' method out or click "Manual Override" to use your phone like a remote control.
